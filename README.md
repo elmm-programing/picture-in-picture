@@ -1,4 +1,4 @@
-# quotes-generator
+# Picture-in-Picture
 ## Requeriments
 - nodejs
 ## Run
